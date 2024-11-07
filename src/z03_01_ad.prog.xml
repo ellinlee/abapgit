@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>Z03_01</NAME>
+    <NAME>Z03_01_AD</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,8 +12,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>z03_01</ENTRY>
-     <LENGTH>6</LENGTH>
+     <ENTRY>z03_02_ad</ENTRY>
+     <LENGTH>9</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
